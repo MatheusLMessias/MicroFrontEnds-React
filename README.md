@@ -1,1 +1,1 @@
-# MicroFrontEnds-React
+# MicroFrontEnds-Training
